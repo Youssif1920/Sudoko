@@ -1,0 +1,3 @@
+{    Leaderboard highscores;
+
+    highscores.drawto(window, 1);}
